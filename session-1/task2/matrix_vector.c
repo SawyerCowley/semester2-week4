@@ -16,5 +16,8 @@
     Store your answer in vector c
     Print your final answer
     */
+
+   
+
     return 0;
  }
