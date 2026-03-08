@@ -11,7 +11,7 @@ int main( int argc, char **argv ) {
     int i;
     char buffer[50];
     // define appropriate data to hold your answer
-    for (i = 0; i < argc; i ++) {
+    for (i = 1; i < argc; i ++) {
         //string conncatenate adds buffer almost like a running product
         strcat(buffer, argv[i]);  
         //adds on hyphen until last value
