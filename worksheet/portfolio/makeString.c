@@ -1,7 +1,7 @@
 
 /*
-Name:
-Student ID:
+Name: sawyer cowley 
+Student ID: 201958891
 */
 
 #include <stdio.h>
