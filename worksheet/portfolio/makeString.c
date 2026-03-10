@@ -10,6 +10,8 @@ Student ID: 201958891
 int main( int argc, char **argv ) {
     int i;
     char buffer[50];
+    //null character
+    buffer[0] = '\0';
     // define appropriate data to hold your answer
     for (i = 1; i < argc; i ++) {
         //string conncatenate adds buffer almost like a running product
